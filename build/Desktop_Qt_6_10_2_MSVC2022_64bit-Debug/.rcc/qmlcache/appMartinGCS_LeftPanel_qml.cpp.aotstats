@@ -1,0 +1,759 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "formatTime",
+                            "line": 14,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTriggered",
+                            "line": 25,
+                            "message": "Cannot access value for name isTraining"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 38,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 41,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 49,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 56,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "alignment",
+                            "line": 64,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 68,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 70,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "alignment",
+                            "line": 78,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 80,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 93,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "maximumHeight",
+                            "line": 95,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 102,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 110,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 83,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 118,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 119,
+                            "message": "Cannot access value for name statusText"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 82,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 119,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 84,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 123,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 93,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 124,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 84,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 128,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 129,
+                            "message": "Cannot access value for name elapsedSeconds"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 100,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 129,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "alignment",
+                            "line": 137,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 141,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 149,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 150,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 59,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 155,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 1000,
+                            "functionName": "onClicked",
+                            "line": 159,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 51,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 158,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 176,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 177,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 55,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 175,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 178,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 182,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 184,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 59,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 186,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 202,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 211,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 208,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 215,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 220,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 220,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 220,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 50,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 222,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 86,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 222,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 98,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 227,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 103,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 235,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 245,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 242,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 250,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 255,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 255,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 255,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 50,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 257,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 86,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 257,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 96,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 262,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 278,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "alignment",
+                            "line": 280,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 295,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 75,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 297,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 116,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 297,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 300,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 80,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 302,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 121,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 302,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 305,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 78,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 307,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 119,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 307,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "rowSpacing",
+                            "line": 313,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "columnSpacing",
+                            "line": 314,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "btnHeight",
+                            "line": 319,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "alignment",
+                            "line": 315,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 321,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 323,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 73,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 325,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 325,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 327,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 330,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 73,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 332,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 332,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 335,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 337,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 340,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 73,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 342,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 342,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 345,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 347,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 73,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 349,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 349,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 351,
+                            "message": "Cannot load property btnHeight from (component in C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 366,
+                            "message": "Cannot access value for name window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 378,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/Jeevan Reddy/Desktop/QtProj-2/LeftPanel.qml"
+                }
+            ],
+            "moduleId": "GCSReplication(appMartinGCS)"
+        }
+    ]
+}

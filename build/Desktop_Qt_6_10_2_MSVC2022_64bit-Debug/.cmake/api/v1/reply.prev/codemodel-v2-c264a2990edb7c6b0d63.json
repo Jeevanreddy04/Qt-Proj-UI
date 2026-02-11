@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1dcf0c86b8f584a3973c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MartinGCS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-54d6ecbc86aaf5466033.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f84a33c5c487de78e6a3.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1801369c1c68014c5d9c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-bc914764700f80444cab.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-39ed004160cb69788408.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS-Debug-1da036bd1dbcfe4849b4.json",
+					"name" : "appMartinGCS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_autogen-Debug-c6e84eeddc4e13158d65.json",
+					"name" : "appMartinGCS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_autogen_timestamp_deps-Debug-54f2de738cee3c0e0aba.json",
+					"name" : "appMartinGCS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_copy_qml-Debug-13d88d5af216748a80a6.json",
+					"name" : "appMartinGCS_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_copy_res-Debug-dbff41e0b1f1ee87eda9.json",
+					"name" : "appMartinGCS_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_qmlimportscan-Debug-197d60e3328f17776ce2.json",
+					"name" : "appMartinGCS_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_qmllint-Debug-bde0796a4159d23f2046.json",
+					"name" : "appMartinGCS_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_qmllint_json-Debug-1968889e620bc615278d.json",
+					"name" : "appMartinGCS_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_qmllint_module-Debug-4cf21dd8975f57e9da39.json",
+					"name" : "appMartinGCS_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMartinGCS_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMartinGCS_qmltyperegistration-Debug-4cd0954c2098ade6de81.json",
+					"name" : "appMartinGCS_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-8a406cb743e3fe66b298.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appMartinGCS_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appMartinGCS_aotstats_target-Debug-4cc84632d02737ea90ba.json",
+					"name" : "module_appMartinGCS_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Jeevan Reddy/Desktop/QtProj-2/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/Jeevan Reddy/Desktop/QtProj-2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "uiScale",
+                            "line": 15,
+                            "message": "Cannot retrieve a non-object type by ID: window"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 2000,
+                            "functionName": "fill",
+                            "line": 18,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/Jeevan Reddy/Desktop/QtProj-2/Main.qml"
+                }
+            ],
+            "moduleId": "GCSReplication(appMartinGCS)"
+        }
+    ]
+}
