@@ -5,7 +5,7 @@ A component-based Ground Control Station (GCS) dashboard built with Qt Quick/QML
 ## Screenshots
 
 ### Full Dashboard View
-![Full Dashboard](images/Screenshot 2026-02-11 191910.png)
+![Full Dashboard](images/FullUI.png)
 
 ### Responsive View
 ![Responsive View](images/responsive_view.png)
