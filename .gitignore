@@ -1,0 +1,10 @@
+build/
+.qtcreator/
+*.user
+*.qmlc
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+.gemini/
