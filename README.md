@@ -5,10 +5,10 @@ A component-based Ground Control Station (GCS) dashboard built with Qt Quick/QML
 ## Screenshots
 
 ### Full Dashboard View
-![Full Dashboard Placeholder](path/to/full_dashboard_screenshot.png)
+![Full Dashboard](images/full_dashboard.png)
 
 ### Responsive View (Mobile/Tablet Scale)
-![Responsive View Placeholder](path/to/responsive_view_screenshot.png)
+![Responsive View](images/responsive_view.png)
 
 ## Features
 - **Responsive Design**: UI scales proportionally using `window.uiScale` and adapts to window resizing.
